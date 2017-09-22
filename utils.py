@@ -49,4 +49,3 @@ def load_image():
 	# classes
 	classes = np.asarray([b'not cat', b'cat'])
 	return images_train_, y_train, images_test_, y_test, classes
-load_image()
