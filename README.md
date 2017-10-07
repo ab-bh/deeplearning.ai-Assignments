@@ -17,12 +17,6 @@ Contains Week2 Assignment with **utils.py** created by me :smile: <br>
  
  ## Week 4: Deep Neural Network
  
- > Built 2 layer Neural Network
- > Built 5 layer Neural Network (Deep)
- > Image recognition using Deep Neural Net achieving **80%** and 2-layer Network **72%**.
- 
- 
- 
- 
-
- 
+ > Built 2 layer Neural Network. <br>
+ > Built 5 layer Neural Network (Deep). <br>
+ > Image recognition using Deep Neural Net achieving **80%** and 2-layer Network **72%**. <br>
