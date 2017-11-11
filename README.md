@@ -1,6 +1,8 @@
 # Deeplearning.ai
 **A Course by Andrew NG**
 
+# Course 1 : Introduction to Deep Learning
+
 ## Week 2: Logistic Regression Approach as Neural Network for cat Image recognition
 Contains Week2 Assignment with **utils.py** created by me :smile: <br>
 ### Dataset:
@@ -20,3 +22,10 @@ Contains Week2 Assignment with **utils.py** created by me :smile: <br>
  > Built 2 layer Neural Network. <br>
  > Built 5 layer Neural Network (Deep). <br>
  > Image recognition using Deep Neural Net achieving **80%** and 2-layer Network **72%**. <br>
+ 
+ 
+ # Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+ 
+ ## Week 1: Parameter Initialisation, Regularisation, Dropout, Gradient Checking
+ 
+
